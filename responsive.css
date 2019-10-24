@@ -16,8 +16,8 @@
 	ul li {
 		display: inline-block;
 		padding-left: 15px;
-		width: 140px;
-		background-position: -10px 0px;
+		width: 1440px;
+		background-position: 0px 2px;
 		margin-right: 6px;
 		line-height: 1em;
 	}
