@@ -31,7 +31,7 @@ hr { color: #000; background-color: #000;}
 header { width: 100%; }
 
 #info { float: left; margin-bottom: 12px; }
-#photo { float: right; margin-top: -300px;}
+#photo { float: right; margin-top: -299px;}
 
 #skills-left { display: block; float: left; margin-right: 30px; }
 #skills-right { display: block; float: left;}
