@@ -6,10 +6,10 @@ h1 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #454545
     font-size: 3.6em; margin-bottom: 6px; }
 h2 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #484848;
     font-size: 2.5em; margin-bottom: 10px; text-decoration: underline; }
-h3 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif; color: #777;
-    font-weight: normal; font-size: 1.8em; margin-bottom: 10px; }
-h4 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif; color: #656565;
-    font-weight: bold; font-size: 1.75em; margin-bottom: 4px; }
+h3 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #777;
+    font-weight: normal; font-size: 1em; margin-bottom: 10px; }
+h4 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #7c7c7c;
+    font-weight: normal; font-size: 1.75em; margin-bottom: 4px; }
 
 p { font-family: "Balthazar", "Droid Serif", serif; color: #565656;
     font-size: 1.8em; line-height: 1.4em; margin-bottom: 15px; padding-left: 0px; }
@@ -23,13 +23,15 @@ img { border: 0; max-width: 100%; }
 a { color: #5582d6; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
+hr { color: #000; background-color: #000;}
+
 #w { margin: 0px 50px; padding: 20px 40px; padding-top: 35px; background: #fff;
     min-width: 260px; max-width: 900px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; -webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-bottomright: 8px; }
 
 header { width: 100%; }
 
 #info { float: left; margin-bottom: 12px; }
-#photo { float: right; }
+#photo { float: right; margin-top: -300px;}
 
 #skills-left { display: block; float: left; margin-right: 30px; }
 #skills-right { display: block; float: left;}
