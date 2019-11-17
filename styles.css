@@ -2,16 +2,16 @@
 html { height: 101%; }
 body { background: #ffffff}
 
-h1 { font-family: "Roboto", serif; color: #6e6e6e;
+h1 { font-family: "Roboto", serif; color: #666666;
     font-size: 3.8em; line-height: 1.4em; margin-bottom: 0px; font-weight: lighter; }
-h2 { font-family: "Roboto", serif; color: #777;
+h2 { font-family: "Roboto", serif; color: #666666;
     font-size: 1.8em; line-height: 1.4em; margin-bottom: 1px; padding-left: 0px; font-weight: lighter; }
 h3 { font-family: "Roboto", serif; margin-bottom: 1px; color: #777; font-size: 1.6em; line-height: 1.5em; font-weight: lighter; }
 ul { display: block; list-style: disc; padding-left: 27px}
-ul li { font-family: "Roboto", serif; color: #666; font-size: 1.6em; line-height: 1.4em; font-weight: lighter; }
+ul li { font-family: "Roboto", serif; color: #777; font-size: 1.6em; line-height: 1.4em; font-weight: lighter; }
 img { border: 0; max-width: 100%; }
 
-a { color: #6e6e6e; text-decoration: none; }
+a { color: #555555; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 hr { color: #000; background-color: #000;}
